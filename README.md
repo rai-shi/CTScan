@@ -45,15 +45,16 @@ This repository is created for the project of Medical Imaging Systems lecture in
 ![alt text](https://github.com/rai-shi/CTScan/blob/master/image/cutoff.png?raw=true)
 
 #### Here is the result of example image:
-             Filter Normalization     Error
-0              None          None  0.000942
-1              Ramp          None  0.007812
-2            Cosine          None  0.017747
-3  Cutoff Frequency          None  0.000942
-4              None   Normalizing  0.002619
-5              Ramp   Normalizing  0.002126
-6            Cosine   Normalizing  0.015000
-7  Cutoff Frequency   Normalizing  0.002619
+|   | Filter         | Normalization | Error |
+|:-:|:--------------:|:-------------:|:------:|
+|0  |None            |None           |0.000469|
+|1  |Ramp            |None           |0.008420|
+|2  |Cosine          |None           |0.023362|
+|3  |Cutoff Frequency|None           |0.000469|
+|4  |None            |Normalizing    |0.001452|
+|5  |Ramp            |Normalizing    |0.001282|
+|6  |Cosine          |Normalizing    |0.005430|
+|7  |Cutoff Frequency|Normalizing    |0.001452|
 
 #### input example image
 ![alt text](https://github.com/rai-shi/CTScan/blob/master/image/inputimage1.png?raw=true)
