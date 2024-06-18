@@ -29,20 +29,20 @@ This repository is created for the project of Medical Imaging Systems lecture in
 |7  |Cutoff Frequency|Normalizing    |0.002619|
 
 #### input shepp_logan_phantom image
-![alt text](https://github.com/rai-shi/CTScan/blob/master/image/inputimage.png?raw=true)
+![alt text](https://github.com/rai-shi/CTScan/blob/main/image/inputimage.png?raw=true)
 #### sinogram result
-![alt text](https://github.com/rai-shi/CTScan/blob/master/image/sinogram.png?raw=true)
+![alt text](https://github.com/rai-shi/CTScan/blob/main/image/sinogram.png?raw=true)
 #### fft result
-![alt text](https://github.com/rai-shi/CTScan/blob/master/image/fft2result.png?raw=true)
+![alt text](https://github.com/rai-shi/CTScan/blob/main/image/fft2result.png?raw=true)
 
 #### result of none filter
-![alt text](https://github.com/rai-shi/CTScan/blob/master/image/none.png?raw=true)
+![alt text](https://github.com/rai-shi/CTScan/blob/main/image/none.png?raw=true)
 #### result of ramp filter
-![alt text](https://github.com/rai-shi/CTScan/blob/master/image/ramp.png?raw=true)
+![alt text](https://github.com/rai-shi/CTScan/blob/main/image/ramp.png?raw=true)
 #### result of cosine filter
-![alt text](https://github.com/rai-shi/CTScan/blob/master/image/cosine.png?raw=true)
+![alt text](https://github.com/rai-shi/CTScan/blob/main/image/cosine.png?raw=true)
 #### result of cutoff filter
-![alt text](https://github.com/rai-shi/CTScan/blob/master/image/cutoff.png?raw=true)
+![alt text](https://github.com/rai-shi/CTScan/blob/main/image/cutoff.png?raw=true)
 
 #### Here is the result of example image:
 |   | Filter         | Normalization | Error |
@@ -57,20 +57,20 @@ This repository is created for the project of Medical Imaging Systems lecture in
 |7  |Cutoff Frequency|Normalizing    |0.001452|
 
 #### input example image
-![alt text](https://github.com/rai-shi/CTScan/blob/master/image/inputimage1.png?raw=true)
+![alt text](https://github.com/rai-shi/CTScan/blob/main/image/inputimage1.png?raw=true)
 #### sinogram result
-![alt text](https://github.com/rai-shi/CTScan/blob/master/image/sinogram1.png?raw=true)
+![alt text](https://github.com/rai-shi/CTScan/blob/main/image/sinogram1.png?raw=true)
 #### fft result
-![alt text](https://github.com/rai-shi/CTScan/blob/master/image/fft2result1.png?raw=true)
+![alt text](https://github.com/rai-shi/CTScan/blob/main/image/fft2result1.png?raw=true)
 
 #### result of none filter
-![alt text](https://github.com/rai-shi/CTScan/blob/master/image/none1.png?raw=true)
+![alt text](https://github.com/rai-shi/CTScan/blob/main/image/none1.png?raw=true)
 #### result of ramp filter
-![alt text](https://github.com/rai-shi/CTScan/blob/master/image/ramp1.png?raw=true)
+![alt text](https://github.com/rai-shi/CTScan/blob/main/image/ramp1.png?raw=true)
 #### result of cosine filter
-![alt text](https://github.com/rai-shi/CTScan/blob/master/image/cosine1.png?raw=true)
+![alt text](https://github.com/rai-shi/CTScan/blob/main/image/cosine1.png?raw=true)
 #### result of cutoff filter
-![alt text](https://github.com/rai-shi/CTScan/blob/master/image/cutoff1.png?raw=true)
+![alt text](https://github.com/rai-shi/CTScan/blob/main/image/cutoff1.png?raw=true)
 
 
 
