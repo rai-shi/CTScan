@@ -16,15 +16,17 @@ This repository is created for the project of Medical Imaging Systems lecture in
 - CTScan result image
 
 #### Here is the result of shepp_logan_phantom image:
-             Filter Normalization     Error
-0              None          None  0.000942
-1              Ramp          None  0.007812
-2            Cosine          None  0.017747
-3  Cutoff Frequency          None  0.000942
-4              None   Normalizing  0.002619
-5              Ramp   Normalizing  0.002126
-6            Cosine   Normalizing  0.015000
-7  Cutoff Frequency   Normalizing  0.002619
+
+|   | Filter         | Normalization | Error |
+|:-:|:--------------:|:-------------:|:------:|
+|0  |None            |None           |0.000942|
+|1  |Ramp            |None           |0.007812|
+|2  |Cosine          |None           |0.017747|
+|3  |Cutoff Frequency|None           |0.000942|
+|4  |None            |Normalizing    |0.002619|
+|5  |Ramp            |Normalizing    |0.002126|
+|6  |Cosine          |Normalizing    |0.015000|
+|7  |Cutoff Frequency|Normalizing    |0.002619|
 
 #### input shepp_logan_phantom image
 ![alt text](https://github.com/rai-shi/CTScan/blob/master/image/inputimage.png?raw=true)
