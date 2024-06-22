@@ -28,7 +28,7 @@ This repository is created for the project of Medical Imaging Systems lecture in
 |6  |Cosine          |Normalizing    |0.015000|
 |7  |Cutoff Frequency|Normalizing    |0.002619|
 
-#### input shepp_logan_phantom image
+## input shepp_logan_phantom image
 ![alt text](https://github.com/rai-shi/CTScan/blob/main/image/inputimage.png?raw=true)
 #### sinogram result
 ![alt text](https://github.com/rai-shi/CTScan/blob/main/image/sinogram.png?raw=true)
@@ -44,7 +44,7 @@ This repository is created for the project of Medical Imaging Systems lecture in
 #### result of cutoff filter
 ![alt text](https://github.com/rai-shi/CTScan/blob/main/image/cutoff.png?raw=true)
 
-#### Here is the result of example image:
+## Here is the result of example image:
 |   | Filter         | Normalization | Error |
 |:-:|:--------------:|:-------------:|:------:|
 |0  |None            |None           |0.000469|
@@ -74,5 +74,5 @@ This repository is created for the project of Medical Imaging Systems lecture in
 
 
 
-Contact Information
+#### Contact Information
 For any inquiries or feedback, please contact: aysenurtak1@gmail.com
